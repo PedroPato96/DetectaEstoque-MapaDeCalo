@@ -57,7 +57,7 @@ def gerar_mapa_de_calor(heatmap_data, vagas):
 
 
 def main():
-    video_path = 'vagas/TesteVerduras.mp4'  # Caminho correto para o vídeo
+    video_path = 'DetectaEstoque-MapaDeCalor/vagas/TesteVerduras.mp4'  # Caminho correto para o vídeo
     video = cv2.VideoCapture(video_path)
 
     if not video.isOpened():
