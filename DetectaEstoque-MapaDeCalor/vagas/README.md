@@ -82,9 +82,9 @@ LIMITE_VAGA_OCUPADA = 500
 ```
 
 ### Seleção de Novas ROIs
-Use o script `selecionar_rois.py` para configurar novas regiões de interesse com base em um quadro específico do vídeo:
+Use o script `Seleciona Vagas.py` para configurar novas regiões de interesse com base em um quadro específico do vídeo:
 ```bash
-python selecionar_rois.py
+python Seleciona Vagas.py
 ```
 
 ### Integração
